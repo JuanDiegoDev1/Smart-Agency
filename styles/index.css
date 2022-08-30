@@ -6,8 +6,12 @@ body{
 }
 h1,h2,h3,h4{ 
     font-family: 'Titillium Web', sans-serif;
+    color: #1a1a1a;
 }
 .bg-light{background-color: #ffffff !important;
+}
+.bg-grey{
+    background-color: #ffffff;
 }
 .navbar{
     min-height: 80px;
@@ -28,4 +32,7 @@ h1,h2,h3,h4{
     color: #ffffff !important;
     border: 1px solid #3f44c9;
 
+}
+section{
+    padding: 100px 0;
 }
