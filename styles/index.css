@@ -1,0 +1,31 @@
+body{
+    font-family:'Raleway', sans-serif;
+    font-size: 14px;
+    color:#7e7e7f;
+    letter-spacing: .06em;
+}
+h1,h2,h3,h4{ 
+    font-family: 'Titillium Web', sans-serif;
+}
+.bg-light{background-color: #ffffff !important;
+}
+.navbar{
+    min-height: 80px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+}
+.logo{
+    min-width: 140px;
+    max-width: 160px;
+}
+.btn{
+    font-size: 14px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    min-width: 160px;
+}
+.btn-primary{
+    background-color: #3f44c9;
+    color: #ffffff !important;
+    border: 1px solid #3f44c9;
+
+}
